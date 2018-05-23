@@ -9,3 +9,4 @@ MYMETA
 logs/
 tags
 testout.xml
+Jenkinsfile
